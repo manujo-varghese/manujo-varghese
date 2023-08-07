@@ -45,15 +45,6 @@ Result-driven Software Engineer with over 3 years of experience in Agile model s
   - Technologies: SQL, TypeScript, Python, Django, Scikit-learn.
 </details>
 
-### Education
-
-#### Master of Data Science
-**Deakin University, Burwood Victoria | July 2019 to June 2021**
-
-- Achieved 81% weighted average score.
-- $3500 scholarship for adversarial attack prevention algorithm.
-- Student Excellence Award for industry project leadership.
-
 ---
 
 📣 Reach out to me via [email](mailto:manujovarghese@gmail.com) for collaboration or inquiries.
