@@ -28,7 +28,7 @@ Result-driven Software Engineer with over 4 years of experience in Agile model s
 <details>
   <summary>Full Stack Software Engineer at Two Bulls Holdings Pvt LTD (Click to expand)</summary>
   
-  **Collingwood Victoria | 27 September 2021 – 28 February 2022 (Contract Role)**
+  **Collingwood Victoria | 27 June 2021 – 28 February 2022 (Contract Role)**
   
   - Implemented GraphQL APIs for efficient UIs, reducing data transfer by 50%.
   - 30% increase in query performance for large-scale data management projects.
